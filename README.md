@@ -44,8 +44,9 @@ public class linkedlist
 }
 ```
 ![image](https://user-images.githubusercontent.com/93587823/229408592-a48fbc94-b3e7-4bed-aa45-636bb6623532.png)
+
 ### 3.Write a Java program to check if a particular element exists in a linked list.
-````
+```
 import java.util.LinkedList;
 
 public class linkedlist2 {
